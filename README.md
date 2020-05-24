@@ -1,3 +1,4 @@
+DNY
 # Welcome to Campus Advisor Training
 
 Welcome to Campus Advisor training. You will be presented with video lessons and asked to complete assignments for each video lesson. All of the videos and assignments can be found in this repository. You are welcome to navigate around this repository, or you are welcome to just follow the links like the one at the bottom of this README to help you progress through the training.
@@ -28,7 +29,7 @@ It is beneficial that you take advantage of the resources presented to you, but 
     #### Windows User Setup
       If you are using Windows, and new to the command-line, I would recommend following additional instructions to avoid using the default shell, known as "PowerShell," in ATOM since all of the examples in the modules will be using a Unix based shell:
       - [Instructions and setup for using ATOM in Windows](https://youtu.be/0aVAjhVZ9Ko)
-    
+
 4. Make sure to set Git with your name and email address using the following commands on the command-line with your name and email address:
 ```
 $ git config --global user.name "FirstName LastName"
@@ -47,12 +48,10 @@ You will notice at the top of the page there are directories for each learning m
 
 ## When you are finished
 
-Educators who have been approved for GitHub Education benefits for faculty are welcome to take the next step of applying to become a Certified Campus Advisor. 
+Educators who have been approved for GitHub Education benefits for faculty are welcome to take the next step of applying to become a Certified Campus Advisor.
 
 Certified Campus Advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
 
 Once you have completed the mandatory Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). We will review your training materials and follow up with you to schedule an interview.
 
 ![Campus Advisor offer in the Teacher Toolbox](https://user-images.githubusercontent.com/2359538/79942524-a7fca000-842c-11ea-8e30-5de3d8e42f6f.png)
-
-
